@@ -1,0 +1,52 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": [
+            "cancel",
+            "goodbye",
+            "stop",
+            "cancel"
+          ]
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "HelloWorldIntent",
+          "samples": [
+            "hola",
+            "como estás",
+            "di hola mundo",
+            "di hola",
+            "hola mundo"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "FrasesIntent",
+          "samples": [
+            "dime un dato curioso sobre el cuerpo humano",
+            "cuéntame algo interesante sobre el cuerpo humano",
+            "dame un dato curioso del cuerpo humano",
+            "quiero saber una curiosidad sobre el cuerpo humano"
+          ]
+        }
+      ],
+      "types": [],
+      "invocationName": "curiosidades cuerpo humano"
+    }
+  }
+}
