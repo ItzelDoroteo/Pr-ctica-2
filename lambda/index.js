@@ -29,7 +29,10 @@ const languageStrings = {
                 'If laid end to end, the blood vessels in the human body would circle the Earth four times.',
                 'The skin is the largest organ of the human body.',
                 'The human heart beats around 100,000 times a day.',
-                'The human body contains enough carbon to make 900 pencils.'
+                'The human body contains enough carbon to make 900 pencils.',
+                'The stapes in the middle ear measures only 2.8 mm.',
+                'Fingernails grow faster than toenails.',
+                'We are born with 270 bones that fuse to 206 in adulthood.'
             ]
         }
     },
@@ -51,7 +54,10 @@ const languageStrings = {
                 'Si se colocaran de extremo a extremo, los vasos sanguíneos en el cuerpo humano rodearían la Tierra cuatro veces.',
                 'La piel es el órgano más grande del cuerpo humano.',
                 'El corazón humano late alrededor de 100,000 veces al día.',
-                'El cuerpo humano contiene suficiente carbono para hacer 900 lápices.'
+                'El cuerpo humano contiene suficiente carbono para hacer 900 lápices.',
+                'El estribo en el oído medio, mide solo 2.8 mm.',
+                'Las uñas de las manos crecen más rápido que las de los pies.',
+                'Nacemos con 270 huesos que se fusionan a 206 en la adultez.'
             ]
         }
     }
